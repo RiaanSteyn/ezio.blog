@@ -1,11 +1,11 @@
 # ezio.blog
 this is a blog site writen in python with the django framework
 
-###run server
+### run server
 python manage.py runserver
 open http://127.0.0.1:8000
 
-###Creating an admin user
+### Creating an admin user
 To login to the admin site create a super user
 ```
 $ python manage.py createsuperuser
