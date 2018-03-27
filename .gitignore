@@ -1,8 +1,5 @@
-/venv
-*.pyc
-security.pub
-config.py
-
+/blog_env
+requirements.txt
 # Intellij
 .idea/
 
