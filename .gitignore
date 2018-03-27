@@ -1,0 +1,9 @@
+/venv
+*.pyc
+security.pub
+config.py
+
+# Intellij
+.idea/
+
+db.sqlite3
